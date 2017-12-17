@@ -1,0 +1,8 @@
+c:\users\zily\documents\visual studio 2015\Projects\NamedPipe\NamedPipe\bin\Debug\NamedPipe.exe.config
+c:\users\zily\documents\visual studio 2015\Projects\NamedPipe\NamedPipe\bin\Debug\NamedPipe.exe
+c:\users\zily\documents\visual studio 2015\Projects\NamedPipe\NamedPipe\bin\Debug\NamedPipe.pdb
+c:\users\zily\documents\visual studio 2015\Projects\NamedPipe\NamedPipe\obj\Debug\NamedPipe.csprojResolveAssemblyReference.cache
+c:\users\zily\documents\visual studio 2015\Projects\NamedPipe\NamedPipe\obj\Debug\NamedPipe.exe
+c:\users\zily\documents\visual studio 2015\Projects\NamedPipe\NamedPipe\obj\Debug\NamedPipe.pdb
+C:\Users\Zily\Documents\Visual Studio 2015\Projects\NamedPipe\NamedPipe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zily\Documents\Visual Studio 2015\Projects\NamedPipe\NamedPipe\bin\Debug\Newtonsoft.Json.xml
